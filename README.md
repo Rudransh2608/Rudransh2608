@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I’m Rudransh</h1>
 
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudransh2608&label=Profile%20views&color=0e75b6&style=flat" alt="rudransh2608" /> </p>
 
