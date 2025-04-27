@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Dropboat Inventory**
+- 🔭 I’m currently working on **Data models**
 
-- 🌱 I’m currently learning **React, REST API's**
+- 🌱 I’m currently learning **Neural networks, deep learning**
 
 - 💬 Ask me about **django, python, software design, project management**
 
