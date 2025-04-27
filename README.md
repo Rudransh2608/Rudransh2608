@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **prathamrudransh1012@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yZL6H4p7Ii9Bi_L8u9VYQk0qtut4kPWb/view?usp=drive_link](https://drive.google.com/file/d/1yZL6H4p7Ii9Bi_L8u9VYQk0qtut4kPWb/view?usp=drive_link)
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
