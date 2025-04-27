@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Neural networks, deep learning**
 
-- 💬 Ask me about **django, python, software design, project management**
+- 💬 Ask me about **data science, machine learning, data**
 
 - 📫 How to reach me **prathamrudransh1012@gmail.com**
 
